@@ -1,8 +1,4 @@
-# QLab Hybrid Quantum Attention
-
-This workspace contains a compact, reproducible implementation of the QLab senior research project:
-
-**A Hybrid Quantum-Classical Attention Mechanism for Efficient Large Language Models**
+# A Hybrid Quantum-Classical Attention Mechanism for Efficient Large Language Models**
 
 The project compares three matched AG News text classifiers:
 
