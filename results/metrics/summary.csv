@@ -1,0 +1,4 @@
+model_type,test_accuracy,test_macro_f1,test_loss,best_val_accuracy,train_seconds,epochs,checkpoint
+classical,0.769,0.7682595182595182,0.7336900234222412,0.752,5.647024999954738,5,/Users/ansh/Downloads/QLab/results/checkpoints/classical.pt
+classical_ablation,0.778,0.7785040022989091,0.7420250091552735,0.77,5.567806959035806,5,/Users/ansh/Downloads/QLab/results/checkpoints/classical_ablation.pt
+hybrid_quantum,0.706,0.7053113085891906,0.8150776414871216,0.723,13.842394042061642,5,/Users/ansh/Downloads/QLab/results/checkpoints/hybrid_quantum.pt

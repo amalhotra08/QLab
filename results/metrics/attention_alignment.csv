@@ -1,0 +1,4 @@
+left_model,right_model,linear_cka,mean_abs_attention_diff,samples
+classical,hybrid_quantum,0.036580413579940796,0.038558512926101685,992
+classical,classical_ablation,0.0995781347155571,0.03608255833387375,992
+classical_ablation,hybrid_quantum,0.03558880463242531,0.03168680891394615,992

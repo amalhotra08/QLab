@@ -1,0 +1,35 @@
+{
+  "config": {
+    "batch_size": 32,
+    "device": "cpu",
+    "dropout": 0.1,
+    "embedding_dim": 48,
+    "epochs": 5,
+    "hidden_dim": 96,
+    "learning_rate": 0.002,
+    "max_len": 32,
+    "n_qubits": 4,
+    "quantum_depth": 2,
+    "seed": 42,
+    "test_size": 1000,
+    "train_size": 5000,
+    "val_size": 1000,
+    "vocab_size": 8000,
+    "weight_decay": 0.0001
+  },
+  "dataset": {
+    "label_names": [
+      "World",
+      "Sports",
+      "Business",
+      "Sci/Tech"
+    ],
+    "max_len": 32,
+    "seed": 42,
+    "source": "huggingface_ag_news",
+    "test_size": 1000,
+    "train_size": 5000,
+    "val_size": 1000,
+    "vocab_size": 8000
+  }
+}

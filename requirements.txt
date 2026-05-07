@@ -1,0 +1,14 @@
+torch
+datasets
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+psutil
+tqdm
+pytest
+python-pptx
+reportlab
+pillow
+

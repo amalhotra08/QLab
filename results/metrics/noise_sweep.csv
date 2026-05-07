@@ -1,0 +1,16 @@
+model_type,noise_level,test_accuracy,test_macro_f1,note
+classical,0.0,0.769,0.7682595182595182,no quantum module; baseline repeated
+classical,0.05,0.769,0.7682595182595182,no quantum module; baseline repeated
+classical,0.1,0.769,0.7682595182595182,no quantum module; baseline repeated
+classical,0.2,0.769,0.7682595182595182,no quantum module; baseline repeated
+classical,0.3,0.769,0.7682595182595182,no quantum module; baseline repeated
+classical_ablation,0.0,0.778,0.7785040022989091,no quantum module; baseline repeated
+classical_ablation,0.05,0.778,0.7785040022989091,no quantum module; baseline repeated
+classical_ablation,0.1,0.778,0.7785040022989091,no quantum module; baseline repeated
+classical_ablation,0.2,0.778,0.7785040022989091,no quantum module; baseline repeated
+classical_ablation,0.3,0.778,0.7785040022989091,no quantum module; baseline repeated
+hybrid_quantum,0.0,0.706,0.7053113085891906,quantum angle + depolarizing noise
+hybrid_quantum,0.05,0.717,0.7159417930476522,quantum angle + depolarizing noise
+hybrid_quantum,0.1,0.717,0.7159591345708187,quantum angle + depolarizing noise
+hybrid_quantum,0.2,0.712,0.710768924872892,quantum angle + depolarizing noise
+hybrid_quantum,0.3,0.712,0.7105789093832613,quantum angle + depolarizing noise
